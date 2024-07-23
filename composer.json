@@ -4,13 +4,6 @@
 	"type": "silverstripe-vendormodule",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe","payment","omnipay"],
-	"require": {
-		"silverstripe/silverstripe-omnipay": "^3.0",
-        "silverstripe/admin": "^1.0"
-	},
-    "require-dev": {
-        "phpunit/phpunit": "^5.7"
-    },
     "extra" : {
 		"installer-name": "omnipay-ui",
         "branch-alias": {
